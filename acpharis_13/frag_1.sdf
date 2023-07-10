@@ -1,0 +1,78 @@
+A9P
+  PyMOL2.5          3D                             0
+
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   10.1907   11.2347   -2.8742 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0119   10.9217   -4.3232 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4612   11.7603   -5.2110 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1510   11.1998   -6.4783 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3937    9.8125   -4.9316 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5166   10.0363   -6.2697 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0926    9.2837   -7.4753 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7576    8.6394   -4.2802 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4682    7.8464   -3.3785 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8386    6.7797   -2.7318 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4999    6.5088   -2.9862 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7980    7.2938   -3.8719 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4207    8.3575   -4.5163 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+>  <model_server_result.job_id>
+KB8maKYnpI1G2-GMiq_wnw
+
+>  <model_server_result.datetime_utc>
+2023-02-10 20:45:16
+
+>  <model_server_result.server_version>
+0.9.9
+
+>  <model_server_result.query_name>
+ligand
+
+>  <model_server_result.source_id>
+pdb-bcif
+
+>  <model_server_result.entry_id>
+4ALH
+
+>  <model_server_params.name>
+atom_site
+
+>  <model_server_params.value>
+
+
+>  <id":"A","auth_comp_id":"A9P","auth_seq_id":1185}>
+
+
+>  <model_server_stats.io_time_ms>
+6
+
+>  <model_server_stats.parse_time_ms>
+40
+
+>  <model_server_stats.create_model_time_ms>
+6
+
+>  <model_server_stats.query_time_ms>
+249
+
+>  <model_server_stats.encode_time_ms>
+0
+
+>  <model_server_stats.element_count>
+13
+
+$$$$

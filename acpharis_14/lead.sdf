@@ -1,0 +1,76 @@
+DGU
+  PyMOL2.5          3D                             0
+
+ 13 12  0  0  0  0  0  0  0  0999 V2000
+    1.4242   55.3764   -0.2152 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0012   56.4720    0.4146 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9528   56.4982    4.8121 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1753   57.3112    3.8656 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5987   56.0823    0.7881 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8070   57.0690    0.9194 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0581   57.7120    2.3746 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5408   57.6965    2.7607 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9810   56.7263    3.8663 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2250   57.2272    4.5910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2430   57.1415    3.4031 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9063   59.0231    3.0898 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1925   57.6081    5.7566 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 13  2  0  0  0  0
+M  END
+>  <model_server_result.job_id>
+EucOqTGDPgKDv8s32_58bg
+
+>  <model_server_result.datetime_utc>
+2023-02-10 20:45:18
+
+>  <model_server_result.server_version>
+0.9.9
+
+>  <model_server_result.query_name>
+ligand
+
+>  <model_server_result.source_id>
+pdb-bcif
+
+>  <model_server_result.entry_id>
+4EW9
+
+>  <model_server_params.name>
+atom_site
+
+>  <model_server_params.value>
+
+
+>  <id":"A","auth_comp_id":"DGU","auth_seq_id":210}>
+
+
+>  <model_server_stats.io_time_ms>
+4
+
+>  <model_server_stats.parse_time_ms>
+39
+
+>  <model_server_stats.create_model_time_ms>
+7
+
+>  <model_server_stats.query_time_ms>
+249
+
+>  <model_server_stats.encode_time_ms>
+0
+
+>  <model_server_stats.element_count>
+13
+
+$$$$

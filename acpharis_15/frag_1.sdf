@@ -1,0 +1,77 @@
+ALE
+  PyMOL2.5          3D                             0
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+   17.5914   29.7639   96.1684 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4749   30.5332   95.8538 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5645   31.9185   95.9175 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7525   32.5310   96.2885 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8716   31.7694   96.6029 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7831   30.3816   96.5409 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5164   32.7346   95.6253 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7564   33.8911   96.3250 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8137   27.7968   96.2028 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6719   25.9262   98.3065 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5239   26.3915   97.2031 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6307   27.8567   97.2478 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5087   28.3754   96.1072 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+>  <model_server_result.job_id>
+DrSThm201wskQ8Q5noZj2Q
+
+>  <model_server_result.datetime_utc>
+2023-02-10 20:45:19
+
+>  <model_server_result.server_version>
+0.9.9
+
+>  <model_server_result.query_name>
+ligand
+
+>  <model_server_result.source_id>
+pdb-bcif
+
+>  <model_server_result.entry_id>
+4LDO
+
+>  <model_server_params.name>
+atom_site
+
+>  <model_server_params.value>
+
+
+>  <id":"A","auth_comp_id":"ALE","auth_seq_id":1402}>
+
+
+>  <model_server_stats.io_time_ms>
+5
+
+>  <model_server_stats.parse_time_ms>
+40
+
+>  <model_server_stats.create_model_time_ms>
+5
+
+>  <model_server_stats.query_time_ms>
+195
+
+>  <model_server_stats.encode_time_ms>
+0
+
+>  <model_server_stats.element_count>
+13
+
+$$$$

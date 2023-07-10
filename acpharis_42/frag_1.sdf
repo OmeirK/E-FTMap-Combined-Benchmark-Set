@@ -1,0 +1,67 @@
+M3T
+  PyMOL2.5          3D                             0
+
+  8  8  0  0  0  0  0  0  0  0999 V2000
+   -5.1679    4.8015   13.9504 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6075    3.9824   15.0052 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1431    2.6756   15.1121 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5856    1.8535   16.1718 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9638    0.1062   16.3153 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4636    2.3375   17.0856 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9290    3.6502   16.9777 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4884    4.4683   15.9219 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+>  <model_server_result.job_id>
+tfzDvKRP9u4CkUM7I5OWyQ
+
+>  <model_server_result.datetime_utc>
+2023-02-10 20:46:07
+
+>  <model_server_result.server_version>
+0.9.9
+
+>  <model_server_result.query_name>
+ligand
+
+>  <model_server_result.source_id>
+pdb-bcif
+
+>  <model_server_result.entry_id>
+4Q9Y
+
+>  <model_server_params.name>
+atom_site
+
+>  <model_server_params.value>
+
+
+>  <id":"A","auth_comp_id":"M3T","auth_seq_id":302}>
+
+
+>  <model_server_stats.io_time_ms>
+55
+
+>  <model_server_stats.parse_time_ms>
+41
+
+>  <model_server_stats.create_model_time_ms>
+14
+
+>  <model_server_stats.query_time_ms>
+196
+
+>  <model_server_stats.encode_time_ms>
+0
+
+>  <model_server_stats.element_count>
+8
+
+$$$$
