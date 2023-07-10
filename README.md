@@ -38,6 +38,6 @@ Osamu Ichihara, Yuzo Shimada, and Daisuke Yoshidome
 ChemMedChem 2014 9 (12), 2708-2717
 DOI: 10.1002/cmdc.201402207
 
-   NOTE: ichihara_2/ shares the same fragment-lead pair as acpharis_11/, but uses a different apo structure
-   NOTE: ichihara_8/ includes 2 fragments, marked frag_1.sdf and frag_2.sdf
-   NOTE: ichihara_16/ inclides 3 fragments, marked frag_1.sdf, frag_2.sdf, and frag_3.sdf
+   NOTE: ichihara_2/  shares the same fragment-lead pair as acpharis_11/, but uses a different apo structure
+   NOTE: ichihara_8/  includes 2 fragments, marked frag_1.sdf and frag_2.sdf
+   NOTE: ichihara_16/ includes 3 fragments, marked frag_1.sdf, frag_2.sdf, and frag_3.sdf
