@@ -25,6 +25,7 @@ Journal of Medicinal Chemistry 2017 60 (9), 4036-4046
 DOI: 10.1021/acs.jmedchem.7b00366
 
    NOTE: frag_bound.pdb files do not include the fragment, as fragments were taken from substructures of larger ligands
+
    NOTE: A subset of complexes with apo receptors available are included here
 
 ### Ichihara Set ###
@@ -39,5 +40,7 @@ ChemMedChem 2014 9 (12), 2708-2717
 DOI: 10.1002/cmdc.201402207
 
    NOTE: ichihara_2/  shares the same fragment-lead pair as acpharis_11/, but uses a different apo structure
+
    NOTE: ichihara_8/  includes 2 fragments, marked frag_1.sdf and frag_2.sdf
+
    NOTE: ichihara_16/ includes 3 fragments, marked frag_1.sdf, frag_2.sdf, and frag_3.sdf
