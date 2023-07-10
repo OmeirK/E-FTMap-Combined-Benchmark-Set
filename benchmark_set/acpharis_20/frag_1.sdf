@@ -1,0 +1,74 @@
+BZ3
+  PyMOL2.5          3D                             0
+
+ 11 12  0  0  0  0  0  0  0  0999 V2000
+   -2.9081   -5.8606   41.2709 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2854  -10.1372   37.7874 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6351   -8.6853   42.0382 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5638   -9.0399   37.8425 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1022   -9.6689   41.3773 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4153   -7.8238   39.9088 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6499  -10.5084   39.0470 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1042   -6.8058   41.9799 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3808   -7.7627   41.3070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6745   -8.8077   39.2458 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0650   -9.7170   39.9749 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+>  <model_server_result.job_id>
+6n7gjUHRSKZr0u1ZjC-RrA
+
+>  <model_server_result.datetime_utc>
+2023-02-10 20:45:28
+
+>  <model_server_result.server_version>
+0.9.9
+
+>  <model_server_result.query_name>
+ligand
+
+>  <model_server_result.source_id>
+pdb-bcif
+
+>  <model_server_result.entry_id>
+3IMC
+
+>  <model_server_params.name>
+atom_site
+
+>  <model_server_params.value>
+
+
+>  <id":"A","auth_comp_id":"BZ3","auth_seq_id":702}>
+
+
+>  <model_server_stats.io_time_ms>
+2
+
+>  <model_server_stats.parse_time_ms>
+76
+
+>  <model_server_stats.create_model_time_ms>
+7
+
+>  <model_server_stats.query_time_ms>
+204
+
+>  <model_server_stats.encode_time_ms>
+0
+
+>  <model_server_stats.element_count>
+11
+
+$$$$

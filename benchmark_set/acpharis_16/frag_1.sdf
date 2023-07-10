@@ -1,0 +1,80 @@
+AMG
+  PyMOL2.5          3D                             0
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+  184.6451   39.3353  210.1821 C   0  0  0  0  0  0  0  0  0  0  0  0
+  185.5133   38.1200  209.7476 C   0  0  0  0  0  0  0  0  0  0  0  0
+  186.8864   38.5405  209.2016 C   0  0  0  0  0  0  0  0  0  0  0  0
+  186.7769   39.7407  208.2201 C   0  0  0  0  0  0  0  0  0  0  0  0
+  185.8265   40.8606  208.7424 C   0  0  0  0  0  0  0  0  0  0  0  0
+  185.6724   42.0021  207.6551 C   0  0  0  0  0  0  0  0  0  0  0  0
+  184.4473   41.1415  211.7580 C   0  0  0  0  0  0  0  0  0  0  0  0
+  185.1347   39.9576  211.3608 O   0  0  0  0  0  0  0  0  0  0  0  0
+  185.6429   37.2905  210.8522 O   0  0  0  0  0  0  0  0  0  0  0  0
+  187.4643   37.4526  208.5470 O   0  0  0  0  0  0  0  0  0  0  0  0
+  186.2995   39.2691  206.9943 O   0  0  0  0  0  0  0  0  0  0  0  0
+  184.5982   40.3228  209.1704 O   0  0  0  0  0  0  0  0  0  0  0  0
+  184.9804   43.1005  208.1653 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+>  <model_server_result.job_id>
+
+
+>  <g3Qmmqj11NPiJIw>
+
+
+>  <model_server_result.datetime_utc>
+2023-02-10 20:45:21
+
+>  <model_server_result.server_version>
+0.9.9
+
+>  <model_server_result.query_name>
+ligand
+
+>  <model_server_result.source_id>
+pdb-bcif
+
+>  <model_server_result.entry_id>
+5ODU
+
+>  <model_server_params.name>
+atom_site
+
+>  <model_server_params.value>
+
+
+>  <id":"C","auth_comp_id":"AMG","auth_seq_id":201}>
+
+
+>  <model_server_stats.io_time_ms>
+8
+
+>  <model_server_stats.parse_time_ms>
+41
+
+>  <model_server_stats.create_model_time_ms>
+20
+
+>  <model_server_stats.query_time_ms>
+190
+
+>  <model_server_stats.encode_time_ms>
+0
+
+>  <model_server_stats.element_count>
+13
+
+$$$$

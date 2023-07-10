@@ -1,0 +1,76 @@
+12Q
+  PyMOL2.5          3D                             0
+
+ 12 13  0  0  0  0  0  0  0  0999 V2000
+   -8.5854   36.9017   22.5696 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.6671   37.7661   23.1227 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.3442   38.6691   22.3018 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.0617   38.8154   20.9153 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.7711   39.7270   20.1216 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.7748   40.5212   20.6958 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0691   40.4190   22.0538 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.3694   39.4995   22.8448 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6690   39.4049   24.2027 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.9647   38.4940   24.9893 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.9587   37.6757   24.4473 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.3700   36.8809   25.1982 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+>  <model_server_result.job_id>
+kc4-zLxcUJkj72uSoEv-hA
+
+>  <model_server_result.datetime_utc>
+2023-02-10 20:45:00
+
+>  <model_server_result.server_version>
+0.9.9
+
+>  <model_server_result.query_name>
+ligand
+
+>  <model_server_result.source_id>
+pdb-bcif
+
+>  <model_server_result.entry_id>
+5FE1
+
+>  <model_server_params.name>
+atom_site
+
+>  <model_server_params.value>
+
+
+>  <id":"A","auth_comp_id":"12Q","auth_seq_id":901}>
+
+
+>  <model_server_stats.io_time_ms>
+4
+
+>  <model_server_stats.parse_time_ms>
+71
+
+>  <model_server_stats.create_model_time_ms>
+4
+
+>  <model_server_stats.query_time_ms>
+226
+
+>  <model_server_stats.encode_time_ms>
+0
+
+>  <model_server_stats.element_count>
+12
+
+$$$$

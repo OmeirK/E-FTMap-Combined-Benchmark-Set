@@ -1,0 +1,84 @@
+BP6
+  PyMOL2.5          3D                             0
+
+ 16 17  0  0  0  0  0  0  0  0999 V2000
+   21.8937  -22.8150   72.4913 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0912  -21.4584   72.1687 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3476  -20.9071   72.0983 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0116  -20.5881   71.9050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3108  -19.2626   71.6039 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6846  -21.0754   71.9551 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4642  -22.4440   72.2734 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5677  -23.3063   72.5415 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.0950  -23.6865   72.7746 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8260  -23.5282   73.9980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9644  -24.3215   74.2871 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4037  -25.2941   73.3653 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6985  -25.4763   72.1543 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5600  -24.6831   71.8633 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4151  -22.3768   75.2492 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   22.8184  -25.0431   70.3319 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+>  <model_server_result.job_id>
+rofnopWJuepHjaU27KeWog
+
+>  <model_server_result.datetime_utc>
+2023-02-10 20:45:31
+
+>  <model_server_result.server_version>
+0.9.9
+
+>  <model_server_result.query_name>
+ligand
+
+>  <model_server_result.source_id>
+pdb-bcif
+
+>  <model_server_result.entry_id>
+1LKD
+
+>  <model_server_params.name>
+atom_site
+
+>  <model_server_params.value>
+
+
+>  <id":"A","auth_comp_id":"BP6","auth_seq_id":300}>
+
+
+>  <model_server_stats.io_time_ms>
+2
+
+>  <model_server_stats.parse_time_ms>
+46
+
+>  <model_server_stats.create_model_time_ms>
+7
+
+>  <model_server_stats.query_time_ms>
+205
+
+>  <model_server_stats.encode_time_ms>
+0
+
+>  <model_server_stats.element_count>
+16
+
+$$$$
