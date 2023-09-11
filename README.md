@@ -1,8 +1,9 @@
-The combined benchmark set used for E-FTMap:
+### The combined benchmark set used for E-FTMap: ###
+
 A summary of UNIPROT and PDBIDs for each case can be 
 viewed in combined_benchmark_uniprot_summary_v3.txt
 
-### Acpharis Set ####
+### Acpharis Set ###
 
 The Acpharis Set is marked by folders named acpharis_XX, where XX is the case ID number
 from the original publication
