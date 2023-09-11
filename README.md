@@ -7,7 +7,7 @@ viewed in combined_benchmark_uniprot_summary_v3.txt
 The Acpharis Set is marked by folders named acpharis_XX, where XX is the case ID number
 from the original publication
 
-The Acpharis Set was compiled by:
+For the Acpharis Set, please cite:
 
 Amanda E. Wakefield, Christine Yueh, Dmitri Beglov, Marcelo S. Castilho, Dima Kozakov, György M. Keserű, Adrian Whitty, and Sandor Vajda
 Journal of Chemical Information and Modeling 2020 60 (12), 6612-6623
@@ -18,7 +18,7 @@ DOI: 10.1021/acs.jcim.0c00877
 The Astex Set is marked by folders named astex_XX, where XX is the case ID number
 from the original publication
 
-The Astex Set was compiled by:
+For the Astex Set, please cite:
 
 Prakash Chandra Rathi, R. Frederick Ludlow, Richard J. Hall, Christopher W. Murray, Paul N. Mortenson, and Marcel L. Verdonk
 Journal of Medicinal Chemistry 2017 60 (9), 4036-4046
@@ -33,7 +33,7 @@ DOI: 10.1021/acs.jmedchem.7b00366
 The Ichihara Set is marked by folders named ichihara_XX, where XX is the case ID number
 from the original publication
 
-The Ichihara Set was compiled by:
+For the Ichihara Set, please cite:
 
 Osamu Ichihara, Yuzo Shimada, and Daisuke Yoshidome
 ChemMedChem 2014 9 (12), 2708-2717
